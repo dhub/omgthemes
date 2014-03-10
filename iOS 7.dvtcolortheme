@@ -7,11 +7,11 @@
 	<key>DVTConsoleDebuggerInputTextFont</key>
 	<string>SourceCodePro-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0.152031 0.723439 0.163764 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>SourceCodePro-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.821762 0.483336 0.827492 1</string>
+	<string>0.4 0.4 0.4 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>SourceCodePro-Regular - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
@@ -19,7 +19,7 @@
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>SourceCodePro-Regular - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.301446 0.616386 0.656244 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>SourceCodePro-Regular - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
